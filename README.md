@@ -1,4 +1,6 @@
 # japan_flag
+![Screenshot](https://user-images.githubusercontent.com/86846327/148076689-d85d4e21-27d6-4379-98f3-63af8cfca9aa.png)
+
 
 A new Flutter project.
 
